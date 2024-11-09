@@ -1,0 +1,44 @@
+#blackbox {
+    display: flex;
+}
+.container {
+    display: column;
+    width: 16%;
+}
+
+.btn {
+    margin: 5px;
+    /*width: 200px;*/
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+    text-align: center;
+    line-height: 30px;
+    vertical-align: middle;
+    cursor: pointer;
+}
+
+.punteggio {
+    color: white;
+    height: 10px;
+}
+
+.res {
+    margin: 5px;
+    /*width: 200px;*/
+    height: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+    text-align: center;
+    line-height: 20px;
+    vertical-align: middle;
+}
+
+.names {
+    margin: 5px;
+    border-radius: 12px;
+    text-align: center;
+    height: 30px;
+    font-size: 25px;
+    width: 94%;
+}
